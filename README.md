@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwa.S</h1>
 <h3 align="center">A passionate full developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Fillustrations%2F106905%2Fweb-developer&psig=AOvVaw0zPozWW1i0D8IosKrB23Ht&ust=1693163986863000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiTzMGF-4ADFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 
